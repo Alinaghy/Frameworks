@@ -9,9 +9,11 @@ In software engineering, the terms frontend and backend (or sometimes referred t
 
 # Web applications
 ## python
-**django** : is a free and open-source, Python-based web 
-framework that follows the model–template–views (MTV) architectural pattern 
+**django** : #### is a free and open-source, Python-based web 
+framework that follows the model–template–views (MTV) architectural pattern #### 
+
 ![django](https://www.djangoproject.com/m/img/logos/django-logo-positive.png)
+
 
 **Flask** :  is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries 
 
