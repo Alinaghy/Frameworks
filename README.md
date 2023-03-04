@@ -25,7 +25,7 @@ is a micro web framework written in Python. It is classified as a microframework
 ### Laravel :
 is a free and open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller (MVC) architectural pattern and based on Symfony 
 
-![laravel](https://www.zend.com/sites/default/files/image/2019-09/logo-laravel.jpg)
+![laravel](https://www.e-spincorp.com/wp-content/uploads/2020/06/laravel-php-framework.jpg)
 
 ### Symfony :
 is a free and open-source PHP web application framework and a set of reusable PHP component libraries. It was published as free software on October 18, 2005, and released under the MIT license. 
