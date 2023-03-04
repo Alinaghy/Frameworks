@@ -19,16 +19,24 @@ framework that follows the model–template–views (MTV) architectural pattern
 ### Flask :
 is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries 
 
+![flask](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png)
+
 ## PHP
 ### Laravel :
 is a free and open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller (MVC) architectural pattern and based on Symfony 
 
+![laravel](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png)
+
 ### Symfony :
 is a free and open-source PHP web application framework and a set of reusable PHP component libraries. It was published as free software on October 18, 2005, and released under the MIT license. 
+
+![symfony](https://symfony.com/images/opengraph/symfony.png)
 
 ## JS
 ### Angular : 
 is a TypeScript-based, free and open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS. 
+
+![angular](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png)
 
 ## C#
 ### ASP.NET :
@@ -42,6 +50,8 @@ is a free and open-source web framework and successor to ASP.NET, developed by M
 ### Bootstrap :
 is a free and open-source CSS framework directed at 
 responsive, mobile-first front-end web development. It contains HTML, CSS and (optionally) JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components. 
+
+![bootsrap](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png)
 
   
   
