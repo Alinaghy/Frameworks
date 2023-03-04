@@ -7,7 +7,7 @@ In computer programming, a software framework is an abstraction in which softwar
 ## Frontend and backend 
 In software engineering, the terms frontend and backend (or sometimes referred to as back end or back-end) refer to the separation of concerns between the presentation layer (frontend), and the data access layer (backend) of a piece of software, or the physical infrastructure or hardware. In the client–server model, the client is usually considered the frontend and the server is usually considered the backend, even when some presentation work is actually done on the server itself. Based on Wikipedia 
 
-# Web applications
+# Web applications :
 
 
 # python
@@ -48,7 +48,6 @@ framework designed for web development to produce dynamic web pages
 ## ASP.NET Core : 
 is a free and open-source web framework and successor to ASP.NET, developed by Microsoft. 
 
-![asp](https://static.gunnarpeipman.com/wp-content/uploads/2019/12/dotnet-core-featured.png)
   
 # CSS 
 ## Bootstrap :
